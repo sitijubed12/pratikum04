@@ -56,7 +56,7 @@ int main()
 int kode, N, jumlah, banyak;
 long int total,diskon,akhir, bayar, harga,duit,kembalian;
 atas:
-cout<<" ===================FACHMI EKA PANGESTU ELEKTRONIK===================\n";
+cout<<"\n";
 cout<<"\n";
 cout<<"                HARGA YANG TERJANGKAU & KUALITAS TERJAMIN\n";
 cout<<"\n";
@@ -72,7 +72,7 @@ cout<<" 8.  Lampu Philips\n";
 cout<<" 9.  Terminal kuningan\n";
 cout<<" 10. Lampu Hias\n";
 cout<<" 11. Ac Portable Trends\n";
-cout<<" ===================FACHMI EKA PANGESTU ELEKTRONIK===================\n";
+cout<<" n";
 cout<<"\n";
 cout<<"Jumlah Barang Yang Dipesan = ";
 cin>>banyak;
@@ -255,24 +255,24 @@ cout<<"\n\n\t\t\tProgram Logging Off....";
 
 #Berikut flowchartnya
 
-![img](https://github.com/fahmieka21/pratikum04/blob/master/flowchart.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/flowchart.png)
 
 
 #Berikut Hasil Run Nya
 
 #Discount 0%
 
-![img](https://github.com/fahmieka21/pratikum04/blob/master/hasillatihan1.png)
-![img](https://github.com/fahmieka21/pratikum04/blob/master/hasillatihan2.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/hasillatihan1.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/hasillatihan2.png)
 
 
 #Discount 5%
 
-![img](https://github.com/fahmieka21/pratikum04/blob/master/hasillatihan3.png)
-![img](https://github.com/fahmieka21/pratikum04/blob/master/hasillatihan4.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/hasillatihan3.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/hasillatihan4.png)
 
 
 #Discount 10%
 
-![img](https://github.com/fahmieka21/pratikum04/blob/master/hasillatihan5.png)
-![img](https://github.com/fahmieka21/pratikum04/blob/master/hasillatihan6.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/hasillatihan5.png)
+![img](https://github.com/sitijubed12/pratikum04/blob/master/hasillatihan6.png)
